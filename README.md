@@ -23,6 +23,6 @@
 1. Want to know what AlgoTradin is? Read this blog...[What is AlgoTrading](https://medium.com/@algotrading0103/what-is-algotrading-3e84e8030268)
 2. Know about what backtesting is & its importance...[Backtesting Strategy with Python](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-1-1b1c47e1b550)
 
-## Contributors :
+### Contributors :
 1. Sreemanta Kesh [LinkedIn](https://www.linkedin.com/in/sreemanta/) [Medium](https://medium.com/@ksreemanto)
 2. Ganesh Nagarvani [LinkedIn](https://www.linkedin.com/in/ganesh-nagarvani/) [Medium](https://medium.com/@ganeshnagarvani)
