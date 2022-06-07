@@ -11,7 +11,7 @@
 - 💬 Ask us about how AlgoTrading works and Automate the process
 - ⚡ Fun fact: There is a great change of profit on Thursday in Options Trading
 
-<h3 align="left">Connect with us:</h3>
+<h3 align="left">Connect with us :</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-The AlgoTrading Page-blue">](https://www.linkedin.com/company/the-algotrading-page/)
 
@@ -22,3 +22,7 @@
 ### To know more about Algotrading and Automation in detail, go through our blogs...
 1. Want to know what AlgoTradin is? Read this blog...[What is AlgoTrading](https://medium.com/@algotrading0103/what-is-algotrading-3e84e8030268)
 2. Know about what backtesting is & its importance...[Backtesting Strategy with Python](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-1-1b1c47e1b550)
+
+## Contributors :
+1. Sreemanta Kesh [LinkedIn](https://www.linkedin.com/in/sreemanta/) [Medium](https://medium.com/@ksreemanto)
+2. Ganesh Nagarvani [LinkedIn](https://www.linkedin.com/in/ganesh-nagarvani/) [Medium](https://medium.com/@ganeshnagarvani)
