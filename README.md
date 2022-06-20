@@ -20,8 +20,9 @@
 [<img src="https://img.shields.io/badge/Medium-@Algotrading0103-white">](https://medium.com/@algotrading0103)
 
 ### To know more about Algotrading and Automation in detail, go through our blogs...
-1. Want to know what AlgoTrading is? Read this blog...[What is AlgoTrading](https://medium.com/@algotrading0103/what-is-algotrading-3e84e8030268)
-2. Know about what backtesting is & its importance...[Backtesting Strategy with Python](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-1-1b1c47e1b550)
+1. [What is AlgoTrading](https://medium.com/@algotrading0103/what-is-algotrading-3e84e8030268)
+2. [Backtesting Strategy with Python Part-1](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-1-1b1c47e1b550)
+3. [Backtesting Strategy with Python Part-2](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-2-7e99c5d653c1)
 
 ### Contributors :
 1. Sreemanta Kesh [LinkedIn](https://www.linkedin.com/in/sreemanta/) [Medium](https://medium.com/@ksreemanto)
