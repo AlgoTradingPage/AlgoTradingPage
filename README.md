@@ -24,6 +24,7 @@
 2. [Backtesting Strategy with Python Part-1](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-1-1b1c47e1b550)
 3. [Backtesting Strategy with Python Part-2](https://medium.com/@algotrading0103/backtesting-your-strategy-with-python-part-2-7e99c5d653c1)
 4. [Automate Zerodha login through Selenium Webdriver](https://medium.com/@algotrading0103/automate-zerodha-login-through-selenium-webdriver-dd73bb625c7f)
+5. [Place condition based orders through Kite & fetch live streaming stock market data](https://medium.com/@algotrading0103/placing-automated-orders-in-algotading-fetching-live-streaming-stock-market-data-2b4121cb2e8a)
 
 ### Contributors :
 1. Sreemanta Kesh [LinkedIn](https://www.linkedin.com/in/sreemanta/) [Medium](https://medium.com/@ksreemanto)
