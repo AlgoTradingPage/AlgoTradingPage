@@ -26,6 +26,7 @@
 4. [Automate Zerodha login through Selenium Webdriver](https://medium.com/@algotrading0103/automate-zerodha-login-through-selenium-webdriver-dd73bb625c7f)
 5. [Place condition based orders through Kite & fetch live streaming stock market data](https://medium.com/@algotrading0103/placing-automated-orders-in-algotading-fetching-live-streaming-stock-market-data-2b4121cb2e8a)
 6. [Free Stock Market Data from Zerodha Terminal & Automate this process](https://medium.com/@algotrading0103/get-stock-market-data-from-zerodha-terminal-for-free-automate-this-process-762be77c472d)
+7. [Extracting historical data through Kite’s Historical API](https://medium.com/@algotrading0103/extracting-historical-data-through-kites-historical-api-for-algorithmic-trading-6b1a82e1e293)
 
 ### Contributors :
 1. Sreemanta Kesh [LinkedIn](https://www.linkedin.com/in/sreemanta/) [Medium](https://medium.com/@ksreemanto)
